@@ -19,7 +19,6 @@ import java.util.HashSet;
 import java.util.Random;
 
 import powerup.systers.com.MinesweeperSound;
-import powerup.systers.com.GameOverActivity;
 import powerup.systers.com.MapActivity;
 import powerup.systers.com.R;
 import powerup.systers.com.powerup.PowerUpUtils;

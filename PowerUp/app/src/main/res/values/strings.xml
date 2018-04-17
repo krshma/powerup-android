@@ -87,4 +87,21 @@
     <string name="game_to_map_message">If you migrate to map, current scene karma points will be lost</string>
     <string name="game_confirm_message">Go to Map</string>
     <string name="marcello_Text">Marcello</string>
+    <string name="score_0">Score: 0</string>
+    <string name="zero">0</string>
+    <string name="letter_T">T</string>
+    <string name="letter_Q">Q</string>
+    <string name="letter_F">F</string>
+    <string name="score_00">Score: 00</string>
+    <string name="pimples">Pimples</string>
+    <string name="bra">Bra</string>
+    <string name="periods">Periods</string>
+    <string name="eyes">Eyes</string>
+    <string name="clothes">Clothes</string>
+    <string name="final_avatar">This is your final avatar! Press continue to start your Journey...</string>
+    <string name="success_rate">=> Better Success Rate</string>
+    <string name="cheap">=> Cheapest Contraceptive</string>
+    <string name="stds">=> No protection against STDs</string>
+    <string name="five">5</string>
+
 </resources>
